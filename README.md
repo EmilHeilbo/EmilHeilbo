@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Emil
 ## 📚 I'm a Computer Studies student (2½ year Diploma programme)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Godot, Go, TypeScript & Next.js
-- 📫 How to reach me: [emilheilbo@protonmail.com](mailto:emilheilbo@protonmail.com)
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning Godot, Go, TypeScript & Next.js
+- 📫 How to reach me: [contact@emilheilbo.me](mailto:contact@emilheilbo.me)
 - 😄 Pronouns: He/Him
 - 💬 Ask me about ...
 
