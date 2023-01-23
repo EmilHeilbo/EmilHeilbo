@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  color: #ffffff;
 }
 #body {
   position: absolute;
@@ -12,10 +13,6 @@ body {
   height: 100%;
   padding: 0px;
   margin: 0px;
-}
-section {
-  font-family: 'Times New Roman', Times, serif;
-  color: #ffffff;
 }
 header {
   position: relative;
