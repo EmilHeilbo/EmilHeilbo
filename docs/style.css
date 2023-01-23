@@ -1,4 +1,5 @@
 body{
+  background-image: 'https://images.pexels.com/photos/3933881/pexels-photo-3933881.jpeg?cs=srgb&dl=pexels-tatiana-syrikova-3933881.jpg&fm=jpg';
  background-repeat:no-repeat;
  background-size:cover;
  background-attachment: fixed;
@@ -122,4 +123,9 @@ table.projects{
  font-family:"Ubuntu", Calibre, sans-serif;
  color:#DDDDDD;
  padding:4px;
+}
+#photo{
+  width:100px;
+  height:100px;
+  border-radius:50%;
 }
