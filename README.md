@@ -23,6 +23,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/-React-000?logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?logo=tailwind%20css)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
 
 ### DevOps:
