@@ -13,10 +13,9 @@ body{
  padding:0px;
  margin:0px
 }
-p{
+section{
  font-family:"Times New Roman",Times,serif;
  color:#FFFFFF;
- font-size:12px;
 }
 header{
  position:relative;
