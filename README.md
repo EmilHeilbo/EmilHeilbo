@@ -2,7 +2,7 @@
 ## 📚 I'm an AP Graduate in Computer Science (2½ year Diploma programme)
 - 🔭 I'm currently working on a portfolio site
 - 🌱 I'm currently learning Godot, Go, TypeScript & Next.js
-- 📫 How to reach me: [contact@emilheilbo.me](mailto:contact@emilheilbo.me)
+- 📫 How to reach me: [emilheilbo@protonmail.com](mailto:emilheilbo@protonmail.com)
 - 😄 Pronouns: He/Him
 - 💬 Ask me about ...
 
