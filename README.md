@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Emil
 ## 📚 I'm an AP Graduate in Computer Science (2½ year Diploma programme)
-- 🔭 I'm currently working on a portfolio site
-- 🌱 I'm currently learning Godot, Go, TypeScript & Next.js
+- 🔭 I'm currently working on my self hosting setup
+- 🌱 I'm currently learning Godot, Go, OWASP Security Principles
 - 📫 How to reach me: [emilheilbo@protonmail.com](mailto:emilheilbo@protonmail.com)
 - 😄 Pronouns: He/Him
-- 💬 Ask me about ...
+- 💬 Ask me about Linux, Docker, automation, etc.
 
 ## 🛠️ My Skills
 
@@ -41,18 +41,3 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual%20Studio%20Code)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?logo=Neovim)
 ![Bun.sh](https://img.shields.io/badge/-Bun-000?logo=bun)
-
-<!--
-**EmilHeilbo/EmilHeilbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
