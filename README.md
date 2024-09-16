@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Emil
-## 📚 I'm an AP Graduate in Computer Science (2½ year Diploma programme)
-- 🔭 I'm currently working on my self hosting setup
-- 🌱 I'm currently learning Godot, Go, OWASP Security Principles
-- 📫 How to reach me: [emilheilbo@protonmail.com](mailto:emilheilbo@protonmail.com)
+## 📚 I'm a Systems Administrator, IT-generalist & AP Graduate in Computer Science
+- 🔭 I'm currently working on my home server
+- 🌱 I'm currently learning Nix, Ansible, Pulumi, MS Azure (AZ-400)
+- 📫 How to reach me: [emil.heilbo@proton.me](mailto:emil.heilbo@proton.me)
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Linux, Docker, automation, etc.
 
@@ -21,6 +21,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust)
 
 ### Frontend
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-000?logo=svelte)
 ![React](https://img.shields.io/badge/-React-000?logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?logo=tailwind%20css)
