@@ -2,7 +2,7 @@
 ## 📚 I'm a Systems Administrator, IT-generalist & AP Graduate in Computer Science
 - 🔭 I'm currently working on my home server
 - 🌱 I'm currently learning Nix, Ansible, Pulumi, MS Azure (AZ-400)
-- 📫 How to reach me: [emil.heilbo@proton.me](mailto:emil.heilbo@proton.me)
+- 📫 How to reach me: [emil@heilbo.dev](mailto:emil@heilbo.dev)
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Linux, Docker, automation, etc.
 
